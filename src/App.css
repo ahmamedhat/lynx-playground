@@ -1,0 +1,71 @@
+/* Basic compatible styles for Lynx.js */
+.main-container {
+  width: 100%;
+  height: 100%;
+  background-color: #222222;
+}
+
+.content-area {
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2196f3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.counter-container {
+  background-color: #333333;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  width: 80%;
+  align-items: center;
+}
+
+.counter-value {
+  color: #ffffff;
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: #4a90e2;
+  padding: 10px;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.button-text {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.simple-list {
+  width: 100%;
+  height: 60%;
+  margin-top: 20px;
+}
+
+.list-item-simple {
+  background-color: #333333;
+  padding: 15px;
+  margin: 8px;
+  border-radius: 5px;
+}
+
+.list-item-text {
+  color: #ffffff;
+  font-size: 16px;
+} 
